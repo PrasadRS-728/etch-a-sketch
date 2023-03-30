@@ -2,9 +2,10 @@
   display: flex;
   flex-wrap: wrap;
   box-sizing: border-box;
-  width: 500px;
-  height: 500px;
+  width: 508px;
+  height: 508px;
   justify-content: center;
+  background-color: aliceblue;
 }
 
 #container div {
